@@ -2,7 +2,7 @@
 ---
 https://github.com/airbnb/polyglot.js
 
-```
+```sh
 npm install node-polyglot
 ```
 
